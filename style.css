@@ -1,0 +1,76 @@
+h1{
+	color: rgb(9,83,122);
+	font-size: 30px;
+	font-family: Exo;
+	text-shadow: rgba(142,117,112,255);
+	background-color:rgba(142,117,112,0.5);
+;
+	border-radius: 8px;	
+	margin: 4 auto;
+	padding: 100 auto;
+}
+.t1{
+	padding-left: 480px;
+}
+.t2{
+	padding-left: 542px;
+}
+
+#profile{
+	height:200px;
+	width: 200px;
+	padding-left:0px;
+	padding-top:20px;
+
+}
+
+h2{
+	color: rgba(0,113,158,255);
+	font-size: 30px;
+	font-family: ;
+}
+
+body{
+	background-image: url(images/backgroundA.jpg);
+	background-size: cover;
+
+}
+
+.bkgrd{
+	size: 5, 10;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+}
+
+a{
+	text-decoration: none;
+}
+/* unvisited link */
+a:link {
+  color: purple;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+div.links{
+	border-radius: 4px;
+	padding: 20px;
+	padding-left: 500px;
+}
