@@ -1,2 +1,3 @@
 # Jessica-Landing-Page
 A prototype of Personal Landing Page That I am Creating
+This is a work in progress and I understand that forms do not work on the free git hub hosting service...
